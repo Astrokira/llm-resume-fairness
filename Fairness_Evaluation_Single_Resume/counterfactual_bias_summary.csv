@@ -1,0 +1,6 @@
+model,cf_mean_score_diff,cf_flip_rate,num_resumes
+grok-4-fast,1.36,0.32,50
+gpt-5-mini,1.4,0.3,50
+gemini-2.5-flash,1.36,0.28,50
+mistral-small-2603,1.06,0.24,50
+DeepSeek-V3.2,0.76,0.12,50
